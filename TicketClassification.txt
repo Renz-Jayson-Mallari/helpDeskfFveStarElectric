@@ -1,0 +1,18 @@
+Ticket Classifications
+
+Password Reset/ Unlocked
+>> Application
+>> Active Directory
+>> Password Unlocked
+>> 30mins
+
+Bluebeam Patricia Pistone
+>> Application
+>> Bluebeam
+>> Remote in and closed all stuck session of Bluebeam. Restarted Bluebeam.
+>> 30mins
+
+Phone replacement
+>> ask for approval
+	ex. Joe please advise
+	ex. Joe, Do you approve a replacement phone for Daniel Brennan

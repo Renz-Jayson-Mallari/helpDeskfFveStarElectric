@@ -1,0 +1,76 @@
+Setting up Windows 10 
+
+>> Smart Deploy win10
+	BIOS
+	--> UEFI only
+	--> UEFI first
+
+>> Login as Support
+	Username: .\support
+	Password: 3nterAz@dmin$
+	
+>> Add user as admin
+	right click computer name > manage 
+	local user and groups
+	add as administrator
+	log off
+	
+>> log in as user 
+	
+	>>> Install printer drivers
+		Fivestar Printer
+		> \\stca-hvs01 ("printer server for 415 Madison")
+		> \\hudy-wfs01 ("printer server for hudson yard")
+	
+	>>> default
+		browser = chrome
+		mail = outlook
+		.pdf = adobe
+		printer = B
+	
+	>>> restart
+	
+	>>> turn off cortana
+	
+	>>> log in to outlook || sinc mail
+	
+	>>> map the q: drive when is not map yet
+		open up the computer drives directory
+		click on Map network drives
+		>Drive: Q
+		>Folder: \\tutorperini.com\FSE
+		>Reconnect at logon
+		>Finish
+		
+	>>> Install
+		>> Autodesk 
+			\\fse-mbs > sbs > Software > Application > Autodesk > BDSS2016(Standalone)
+			Search "Materiallib"
+			Run material library setup
+			check Autocad MEP 2016 click dropdown to modify
+				> check express tools
+				> uncheck Global and US metric
+			NOTE: Material library has to be install first.
+			L-key : 559 - 04065033 / 784H1
+					NOTE: G - 2015
+						  H - 2016
+						  I - 2017
+			
+		>> Accubid
+			\\fse-mbs > sbs > application > Accubid
+			install Accubid_11_full
+			
+	>>> Update 
+		>> Autocad MEP 2016 Service pack --> google then download the executable file. 
+		>> NVIDIA QUADRO m4000
+			go to the official website 
+			GEFORCE --> Gaming
+			QUADROS --> Work station --> pick this
+			look on the dropdown for the specific model
+			search
+			download the executable file
+			do clean customize clean install
+			
+			
+		
+			

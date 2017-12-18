@@ -1,0 +1,15 @@
+Entry Card Pass
+
+Search >> mstsc
+Login with credentials
+
+Search >> ccurve_server
+Login with the ff
+Username: administrator
+Password: Simplex1
+
+Administrator apps on the desktop
+Search >> Enter credential of the requester >> disabled the account number save " this will disabled the old card"
+Enter the new account number (ex. 5341) " it should be on the new card " >> save
+
+NOTES: Write the name on the note(sticky paper would work) 

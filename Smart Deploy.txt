@@ -1,0 +1,45 @@
+Smart Deploy
+
+hit f12 --> get into the boot up option
+		--> bios settings
+		--> diagnostic
+		--> uefi settings
+
+Smart deploy
+	win7
+	win10
+	
+	Organization Unit: oufsepclients...=fivestar
+	
+	ComputerName: ex. FSE-HP8300-6
+	
+	
+Installing Bluebeam
+	SCCM --> Software Center Control Management
+	
+	Tutorperini.com >> FiveStarElectric >> Groups >> Security >> SCCM_Bluebeam_FSE 
+	
+	
+Login as User
+	 --> Add User to the administrator.
+	 --> must know user's password.
+	 
+	 ComputerName >> Manage >> Local Users and Groups >> Groups >> Administrator >> Add >> Username >> Checknames >> apply >> ok >> logoff >> log back in
+	 
+Make a shortcut for User Scans and Printers
+
+	\\stca-hvs01  --> 415 Madison
+				  --> Hypervisor Server
+				  --> Printer ( add all "fivestar" printers ) ...  make sure the list show all details
+				  --> Scanners Staff Folders ( create a shortcut on the desktop.)
+				  
+	\\ hudy-wfs01 --> 360 hudson yard
+				  --> Windows File server
+				  --> Printer ( add all "1104" printers ) ...  make sure the list show all details
+				  --> Scanners Staff Folders ( create a shortcut on the desktop.)
+				  --> hp1300 and hp2500 are plotter(for engineer and cad)
+				  
+	
+				  
+				
+	
