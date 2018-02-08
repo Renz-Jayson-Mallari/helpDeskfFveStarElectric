@@ -1,0 +1,30 @@
+Adding Read only group on Q drive
+
+CUNY - #9893
+COLUMBIA - #9817
+FLUSHING - #9930
+EITC - # 9789 
+425 PARK - #9973
+HUNTER ST - #2609
+RIVERSIDE 2 -#2593
+RIVERSIDE 2 -#2593
+RIVERSIDE 5 - #9968
+199 CHURCH - #1015
+610 LEX - #9961
+
+ >> Goto AD and ADD the ff group.
+	Domain Controller : lvhq
+	FIvestar >> Groups >> Security >> right click >> add group 
+		as " FSE-PROJECTS-COMPLY-9893-RO "
+		
+ >> Goto Job Folder and Add the group for necessary job
+	Q>>Jobs>> #9893(Jobs) >> Compliances >>Edit >> Add >> type "FSE-PROJECTS-COMPLY-9893-RO" check names >> OK >> Apply >> OK
+	
+ >> If the jobs is not on Q drive add it
+	Goto DFS Management
+	
+	//fse-data
+		>> Project_Folders >> PROJETCS >> EITC(#9789) "example" >> add the link 
+		"\\fse-data\Project_Folders\(PROJECTS)\#9789-Educational and Cultural Trust Fund of the Electrical Industry" to Q drive using DFS management.
+		
+		REsolution email --> "Ok, You are all set. You just need to log off and log back in. You can then view the compliance folder in the job folder in your Q-Drive."

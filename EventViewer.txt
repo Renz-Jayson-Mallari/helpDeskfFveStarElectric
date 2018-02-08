@@ -1,0 +1,5 @@
+Event viewer
+
+	>>	Windows log
+		>>	Sytem log
+			>>	look for 6006 to see if the computer last shutdown

@@ -1,0 +1,13 @@
+Install Timberline
+
+
+
+\\timber\TIMBERLINE OFFICE\9.5\Accounting\WinInst
+
+Go to the above location, and run the Install.exe. 
+
+Once it’s done, it will force you to restart. 
+
+After you log back in, Go back to that location and run the 970AccUpdate51.exe.
+
+copy TS on the desktop.

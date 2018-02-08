@@ -1,0 +1,4 @@
+Active directory Groups
+
+Distributions --> email groupd
+Security --> file folder groups

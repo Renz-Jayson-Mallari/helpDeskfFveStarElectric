@@ -1,6 +1,7 @@
 Entry Card Pass
 
 Search >> mstsc
+	>>fse-mbs
 Login with credentials
 
 Search >> ccurve_server

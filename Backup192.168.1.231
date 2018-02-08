@@ -1,0 +1,13 @@
+Backup 192.168.1.231
+
+goto \\192.168.1.231
+
+login 
+	uName 192.168.1.231\fseremote
+	pWrod 753cl0ud
+	
+	rightclick >newfolder
+	
+	exmaple name pattern
+	
+	fName.lName(mm-dd-yy)

@@ -1,0 +1,28 @@
+Scanner Path Setup
+
+	//fse-wds01 -->Ozone
+	
+	Example Legal_kyocera_4551 			2nd floor in the back of the accounting department	192.168.1.242
+	
+	To add OR check the user path
+		>> Address Book	>> Machine Address Book >> Ex. Fara Kokil
+		
+	 Name :	Farah Kokil
+
+		E-mail :	
+		E-mail Address :	
+
+     SMB :	
+       Host Name :	FSE-DATA
+       Port Number :	445
+       Path :	Stafffiles\farah.kokil\scans
+       Login User Name :	services.scanner
+       Login Password :	••••••••••••••••
+		Connection Test :	Test
+
+     FTP :	
+       Host Name :	
+       Port Number :	21
+       Path :	
+       Login User Name :	
+       Login Password :	••••••••••••••••

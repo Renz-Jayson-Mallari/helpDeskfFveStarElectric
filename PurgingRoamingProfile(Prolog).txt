@@ -1,0 +1,11 @@
+Purging a roaming profile 
+
+>> log out the user
+
+	>> go to: \\lvhq-wfs21\cifs_citrix_user_profiles$\XenApp\LVHQ\Roaming
+	
+		>> rename the firstname.lastname to firstname.lastname.OLD
+		
+>> log back in 
+	>> turn on the citrix
+		>> open the prolog

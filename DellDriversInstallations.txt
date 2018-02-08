@@ -1,0 +1,6 @@
+Dell drivers installation
+
+	>> Install network drivers on the USB
+	>> Search dell download drivers
+	>> detect my pc
+	>> auto detect and install drivers

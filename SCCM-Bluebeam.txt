@@ -1,0 +1,9 @@
+SCCM Bluebeam FSE
+
+Active Directory >> FiveStarElectric >> Groups >> Security >> SCCM_Bluebeam_FSE
+
+Software Center
+Search for Software Center >> wait to load the the Bluebeam >> Install All
+
+	>> Bluebeam tracking Inventory 
+		>> Q:\Departments\InformationTechnology\_TRACKING_\Inventory\Software\bluebeam

@@ -1,0 +1,10 @@
+Egnyte Desktop Setup Y drive
+
+Login to Egnyte using --> https://tutorperini.egnyte.com/#login
+					  --> use the users credential
+					  
+Goto ...
+Apps & Add-Ons >> Egnyte Apps >> Download Egnyte Connect Desktop Apps
+
+On the desktop left corner icons...
+right click on egnyte icons >> Settings >> Add >> Map it on Y: drive

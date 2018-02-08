@@ -1,0 +1,33 @@
+Scanner check
+
+
+goto the browser: example http://192.168.1.147/
+
+	Destination list and click the number
+	
+	
+	Destination Registration(PC) 
+
+--------------------------------------------------------------------------------
+Item
+
+Registration Number : 004   
+Registration Name :  Ilya B
+Destination PC : service
+Save number : 42
+
+
+goto the server
+  windows+r : mstsc
+  login:  with credential
+  goto: scanner utility --> only one remote can use at a time
+  the number 42 should much
+  
+  
+-------------------------------------------------------------------------------------
+
+Give the link by going to the of the scans
+
+example
+
+		\\service\ScanServe\Kyocera_3035_MEZ\IlyaB_Scans

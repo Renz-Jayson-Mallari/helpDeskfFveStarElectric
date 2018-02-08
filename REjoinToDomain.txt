@@ -1,0 +1,12 @@
+Rejoined to domain
+
+>> Remote in using bomgar
+	>> login is as : TPadmin  PASSWORD: PC@cc35s
+						OR
+					 Support PASSWORD: 3nterAz@dmin$
+					 
+	>> Goto computer properties
+		>> Change Settings
+			>> Change
+				>> Replace tutorperini.com with tutorperini
+					>> reset

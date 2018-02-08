@@ -1,0 +1,9 @@
+ADOBE READER cant open multiple files
+
+To specify the settings, do the following:
+1. Choose Edit > Preferences.
+2. In the Categories list on the left, select Security (Enhanced).
+3. In the Sandbox Protections section, select or deselect Enable Protected Mode At Startup. 
+Enable Create Protected Mode Log File to record events.
+
+Protected View feature for PDFs (Windows), Adobe Reader

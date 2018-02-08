@@ -1,0 +1,15 @@
+Remove Email Forwarding
+
+Goto Citrix
+	>> Microsoft Management Console
+	>> Recipeint
+	>> Distribution Group
+	>> Look for the name
+	>> right click + properties to see the memeber
+	>> REMOVE
+	
+	Pil@ntodpo20
+	
+	
+	
+	

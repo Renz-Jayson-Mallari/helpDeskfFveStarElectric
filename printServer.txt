@@ -1,5 +1,24 @@
-Print Server
+﻿Print Server
 
-\\fse-wds01 --> Ozone
+>> fse-wds01 --> Ozone
+	> ADMIN_TASKALFA_420i(192.168.1.244) password admin00
+		>Basic
+			>Security
+				> Name
+					ex. Host Name:	service
+						Port Number: 139
+						Path:	ScanServe\Task Alpha 420I SS1\TrishGiuca_Scans
+						Login User Name:	services.scanner
+						Login Password:	••••••••••••••••
+
+	>ACCTRAMP_RICOH_4054 
+		username: admin
+		password:  
+
+		add person to scans
+			>>device management >> address book >> add group >> 
+			
+
+	
 \\stca-hvs01 --> 415 madison
 \\hudy-wfs01 --> 360 hudson yard

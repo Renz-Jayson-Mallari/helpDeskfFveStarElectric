@@ -1,0 +1,5 @@
+Resolutions
+
+mobile solution :
+	Registered the new phone with mobile solution, tested both phone and data services. 
+	

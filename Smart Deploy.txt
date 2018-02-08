@@ -12,6 +12,9 @@ Smart deploy
 	Organization Unit: oufsepclients...=fivestar
 	
 	ComputerName: ex. FSE-HP8300-6
+
+	tutorperini\renz.mallari
+	password
 	
 	
 Installing Bluebeam

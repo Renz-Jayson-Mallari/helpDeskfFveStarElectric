@@ -1,0 +1,14 @@
+Egnyte access Permission
+
+Login to egnyte
+	shared >> five star electric >> folder name >> share button on the top bar
+	>> manage folder permission >> viewer group
+	
+	
+Look on AD( Active Directory)
+	make sure its on Vegas
+	>>fivestar >> group >> security >> viewer group
+	add >> search for the name of the requester >> apply >> ok
+	
+	
+	

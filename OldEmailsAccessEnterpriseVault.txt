@@ -1,0 +1,9 @@
+In outlook look for Enterprise vault.
+
+If you don't see it:
+
+In outlook go to file>
+				options>
+				Add-Ins> 
+				Manage COM Add-Ins; click Go> 
+				Make sure Enterprise Vault is check marked.

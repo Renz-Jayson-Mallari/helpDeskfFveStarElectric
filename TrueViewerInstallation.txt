@@ -1,0 +1,6 @@
+Installing TrueViewer
+
+ --> \\fse-mbs\SBS\Software\Applications\Autodesk
+ 
+	>> Viewer
+		>>	DWGTrueViewr_2017

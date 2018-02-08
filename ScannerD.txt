@@ -1,0 +1,19 @@
+Adding to Scanner D 
+
+ \\esap-dc01\ESAPKMC364D  Konica Minolta C364SeriesPCL
+
+	>> got esap-dc01
+			look for ESAPKMC364D Ease Side Access- FIve Sta Electric - C179 Admin Area 10.21.80.28
+	
+	>> go to fsnb-hvs01
+		>> look for the user name example KyleK_Scans
+		
+	>> Login as admin 1234567812345678
+	
+	Make sure the main is checked
+	10.21.97.8 --> IP of fsnb-hvs01
+	 " \\fsnb-hvs01\ "(SCANS)\KyleK_Scans
+	USer ID : services.scanner	
+	PW : Swe=6amu
+	
+	

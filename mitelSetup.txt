@@ -1,0 +1,69 @@
+mitel Phone
+
+Internet Browser 
+(Internet Explorer) --> 192.168.101.20
+					--> continue to this website
+					
+Login --> Username : fseremote
+		  password : 753cl0ud
+		  
+System Administration Tool
+	>> Report >> Alphabetically >> User and Service Configuration >> Export
+	
+	Mac ID 			Model			Extension (has to be made)
+					5212				4136
+					5224				4137
+					5212				4138	
+					5324				4139
+					
+Group Administration Tool
+	>> manage extension >> Add 
+	
+	Names
+	type name: 5215 ( front of the phone
+	mac Address :  at the back of the phone
+	display name: Full name(Ozone)
+	
+	7	7	7
+	4	4	4	
+	20
+	
+Multicall 
+	manage extension >> 4136 >> multicall
+	
+Mailbox 
+	search --> mstsc
+		   --> remote to sbs
+		   --> first login >> credential
+		   --> 2nd login
+		   >>
+				username : rick
+				password : corona
+		   --> UC admin
+				
+		mitel >> fivestarelectric >> MailboxStructure 
+		
+New Mailbox 
+	>>	rightclick >> new mailbox >> extension number (ex. 4136) >> Standard User >>  Save
+	
+Used Mailbox
+	Reset Mailbox >> same process as new mailbox.
+
+
+>> Load the inventory
+>> System Administration Group
+	>> View Alphabetically
+	>> IP Telephone ALL
+	>> Export
+
+	>> User Service Configuration
+	>> Number
+	>> CLick Names
+	>> click Phones
+	>> Select Keys
+	>> Clear All keys
+	
+	
+
+	
+

@@ -1,0 +1,6 @@
+Active Directory
+
+415 Madison == stca-dc01
+ozone == dc01
+field == any lvhq
+esa norther blvd == esap-dc01

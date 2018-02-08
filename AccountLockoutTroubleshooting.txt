@@ -1,0 +1,11 @@
+Account lockout
+
+	>> for the log go to ...
+		>> \\lvhq-wfs20\itdocs\IT Support Team\Account Lockouts
+		
+	if it shows local computer it getting lockout from a pc.
+	if it shows sa server name it getting lockout from exchange account. 
+	
+	
+	tools to check if it has save password on the pc : Credential Manager
+		

@@ -1,0 +1,9 @@
+Installing Navis Freedom
+	
+	--> \\fse-mbs\SBS\Software\Applications\Autodesk
+	
+		>> Freedom2016
+			>> Autodesk_Naviswork_Freedom_2016
+
+
+	--> \\fsma-hvs01\(SOFTWARE)\NAVFREE16
