@@ -24,6 +24,7 @@ Group Administration Tool
 	mac Address :  at the back of the phone
 	display name: Full name(Ozone)
 	
+Standard 
 	7	7	7
 	4	4	4	
 	20
@@ -35,11 +36,14 @@ Mailbox
 	search --> mstsc
 		   --> remote to sbs
 		   --> first login >> credential
+
+			>>Office Linx Admin
+
 		   --> 2nd login
 		   >>
 				username : rick
 				password : corona
-		   --> UC admin
+		   -->  admin
 				
 		mitel >> fivestarelectric >> MailboxStructure 
 		

@@ -1,0 +1,8 @@
+WIFI connected but no internet
+
+Fixed it. Changed to User authentication. It was on computer authentication
+
+right lick on wifi --> has to be connected
+properties
+advanced settings
+

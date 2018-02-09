@@ -1,0 +1,5 @@
+Directories
+
+Mobile device log --> Q:\Departments\InformationTechnology\_TRACKING_\IT_Tracking_Issues
+
+Lenovo --> Q:\Departments\InformationTechnology\_TRACKING_\Inventory\Computers\Lenovo
