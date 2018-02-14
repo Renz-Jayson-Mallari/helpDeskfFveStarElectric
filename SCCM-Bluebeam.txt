@@ -11,5 +11,7 @@ Search for Software Center >> wait to load the the Bluebeam >> Install All
 
 Add the computer name 
 
+esa --- download
+
 dc01
 lvhq
