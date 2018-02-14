@@ -7,3 +7,9 @@ Search for Software Center >> wait to load the the Bluebeam >> Install All
 
 	>> Bluebeam tracking Inventory 
 		>> Q:\Departments\InformationTechnology\_TRACKING_\Inventory\Software\bluebeam
+
+
+Add the computer name 
+
+dc01
+lvhq

@@ -1,0 +1,8 @@
+Enterprise Vault Patch
+
+Registry>
+current user>software>Microsoft>windows>current version>internet settings
+-enabled autodial
+-no net dial
+-global user offline
+*double click and set all to 0
