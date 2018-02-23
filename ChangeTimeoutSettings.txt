@@ -1,0 +1,11 @@
+If increasing network bandwidth is not an option, you can increase the amount of time the program waits for a response from the license manager by configuring an environment variable at the client workstation. Follow these steps:
+1.	Right-click My Computer. Click Properties. For Windows 7, click the "Advanced system settings" link.
+2.	In the System Properties dialog box, click the "Advanced" tab.
+3.	On the Advanced tab, click "Environment Variables…".
+4.	In the Environment Variables dialog box, under System Variables, click New.
+5.	In the New System Variable dialog box, enter FLEXLM_TIMEOUT for the variable name and 10000000 for the variable value.
+6.	Click OK to close each dialog box.
+7.	Launch the Autodesk application.
+If you are able to obtain a license, the value of 1000000 microseconds (1 second) is sufficient. If you still cannot obtain a license, repeat the procedure; increasing the value in 1000000 microsecond increments until you are able to obtain a license from the license server.
+
+Note: You may also need to specify TCP port 2080 in your Autodesk software client license file, LICPATH.lic.

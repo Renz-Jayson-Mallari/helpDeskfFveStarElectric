@@ -4,5 +4,5 @@ Registry>
 current user>software>Microsoft>windows>current version>internet settings
 -enabled autodial
 -no net dial
--global user offline
+-global user off-line
 *double click and set all to 0
