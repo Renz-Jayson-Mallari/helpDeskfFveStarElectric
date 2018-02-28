@@ -1,0 +1,17 @@
+Adding color printer rights
+
+415 madison -- stca-hvs01
+10.21.114.28
+login 
+admin
+no password
+
+get the registration code ex 1891
+
+remote with bomgar 
+
+go to printer and device
+right click on the printer 
+printer preferences
+print job 
+registration no
