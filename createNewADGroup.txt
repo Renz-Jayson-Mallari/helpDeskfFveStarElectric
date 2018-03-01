@@ -1,0 +1,12 @@
+Creating a new Group on AD
+
+goto the Specific OU
+goto to the five star folder
+security
+copy the name of the similar group example FSE-DEPT-CONTRACT-RO\
+
+create a new Group
+>right click on empty space
+> new > group
+FSE-DEPT-CONTRACT-RO-NEW
+

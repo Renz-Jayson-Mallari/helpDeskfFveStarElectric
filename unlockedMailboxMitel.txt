@@ -1,0 +1,20 @@
+Mailbox unlocked
+
+Mailbox 
+	search --> mstsc
+		   --> remote to sbs
+		   --> first login >> credential
+
+			>>Office Linx Admin
+
+		   --> 2nd login
+		   >>
+				username : rick
+				password : corona
+		   -->  admin
+				
+		mitel >> fivestarelectric >> MailboxStructure 
+		
+		>> Mailbox option
+		>> unchecked Security locked mailbox
+		>> save
