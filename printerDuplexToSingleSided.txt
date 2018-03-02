@@ -1,0 +1,20 @@
+Printer Duplex to Single Sided
+
+	>>example 415 MAdison ticket
+	
+	>> Good Morning,
+
+This printer prints only 11x17 in double sided.  I think it’s an automatic setting and cannot be adjusted. 
+
+So all my 11x17’s require me to use the 3503 color printer if I want to print a single sided only package of dwgs
+
+Can you adjust that setting on the 4002 to print 11x17’s in a package as single sided? 
+
+I assume this would be helpful for everyone here.
+
+
+	>> print management
+	>>stca-hvs01
+	>>general
+	>>preferences
+	>> basic settings to 1sided

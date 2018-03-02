@@ -1,0 +1,4 @@
+Bluebeam installation
+
+> add the computer name to SCCM on AD using LVHQ Domain Controller
+> wait an hour before installation
