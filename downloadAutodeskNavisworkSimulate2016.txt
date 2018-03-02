@@ -10,5 +10,6 @@ Select Verion
 	2016
 	windows 64bit
 	Multilingual
-	part1 part2
+	DO NOT part1 part2
+	YES Download now
 	
