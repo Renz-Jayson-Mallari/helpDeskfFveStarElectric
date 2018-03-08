@@ -1,0 +1,11 @@
+O drive
+//esap-dc01> data > cs179
+
+Map as 0: drive
+
+>> Windows Explorer
+ >> Map Network Drive
+	> 0:
+	> paste dir
+	> check reconnect at signin
+	> finish
