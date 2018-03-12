@@ -1,0 +1,40 @@
+
+21 ftp
+22 ssh
+23 telnet
+25 smtp
+53 dns
+80 http
+110 pop3
+143 imap
+443 https
+3389 rdp
+137-139 netbios
+445 smb/cifs
+427 spl
+548 afp
+
+standard		band		speed
+802.11b			2.4ghz		11mbps
+802.11a			5			54	
+802.11g			2.4			54
+802.11n			2.4,5		600
+802.11ac		5			1gb
+
+intel
+Socket		type		pins		yr		supported
+socket t 	LGA			755			2004	pentium 4/core2
+socket B	LGA			1366		2008	Core i7(Nehalem)
+socket H/H1 LGA			1156		2009	core i3/5/7(Nehalem)
+socket H2	LGA			1155		2011	Sandy/Ivy Bridge
+socket H3 	LGA			1150		2013	Haswell/Broadwell
+socket R	LGA			2011		2011	Sandy/Ivy Bridge/Haswell-E/EP
+
+AMD
+Socket		type		pins		yr		supported
+AM3			PGA-ZIF		941			2009	Athlon II/ Phenom II
+AM3+		PGA-ZIF		942			2011	Athlon II/ Phenom II
+FM1			PGA-ZIF		905			2011	AMD 10h
+FM2 	  Micro PGA-ZIF 904			2012	Piledriver
+FM3			PGA-ZIF		906			2014	Steamroller
+
