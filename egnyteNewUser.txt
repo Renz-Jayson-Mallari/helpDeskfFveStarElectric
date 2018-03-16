@@ -1,0 +1,6 @@
+Egnyte groups for new egnyte user.
+
+FSE_EGNYTE_USERS
+FSE-EGNYTE_USERS
+Egnyte_Users
+

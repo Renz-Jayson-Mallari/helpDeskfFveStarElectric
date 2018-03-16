@@ -9,3 +9,6 @@ Purging a roaming profile
 >> log back in 
 	>> turn on the citrix
 		>> open the prolog
+
+
+renz.mallari.upm_2018-03-12_14.02.05

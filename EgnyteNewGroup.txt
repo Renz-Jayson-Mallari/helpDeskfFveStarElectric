@@ -1,0 +1,13 @@
+Egnyte New Group
+
+Goto AD
+change the DC to LVHQ
+
+>> Use LVHQ DC for Egnyte
+
+Goto Five star >> Groups >> Security >> right click > New >> Group
+	preference : FSE_EGS_9999(jobNumver)_FULL 
+				 FSE_EGS_9999(jobNumver)_EDITOR
+				 FSE_EGS_9999(jobNumver)_VIEWER
+				 
+	NOTES >> Add people to the group first for it to show up on EGnyte.
