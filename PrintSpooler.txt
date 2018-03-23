@@ -1,0 +1,10 @@
+printSpooler
+
+open up Services 
+	>> type "p" look for print spooler
+	>> start
+	
+remove the printer device on "Devices and printer"
+
+remove the drivers on " Print management" >> "All drivers" >> right click on "printer driver" >> Remove driver packgae
+

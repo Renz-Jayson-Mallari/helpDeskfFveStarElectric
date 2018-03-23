@@ -1,0 +1,18 @@
+
+Just applying the reg fix worked for me.  Hopefully this is something Infrastructure can push out.
+
+Office 2016
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Security]
+"EnableRoamingFolderHomepages"=dword:0000000
+
+Office 2013
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\Security]
+"EnableRoamingFolderHomepages"=dword:00000001
+
+Office 2010
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Outlook\Security]
+"EnableRoamingFolderHomepages"=dword:00000001
