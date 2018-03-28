@@ -1,0 +1,3 @@
+Evault for MS outlook 2010
+
+\\fse-mbs\SBS\Software\Veritas\RegistrySettings_EVS_OutlookPatch\RegistrySettings_TN000128053_CFT644
