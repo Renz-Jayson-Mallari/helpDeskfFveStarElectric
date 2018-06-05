@@ -21,7 +21,7 @@ Group Administration Tool
 	
 	Names
 	type name: 5215 ( front of the phone
-	mac Address :  at the back of the phone
+	mac Address :  at the back of the phone  08:00:0f:20:29:52
 	display name: Full name(Ozone)
 	
 Standard 
@@ -51,7 +51,11 @@ New Mailbox
 	>>	rightclick >> new mailbox >> extension number (ex. 4136) >> Standard User >>  Save
 	
 Used Mailbox
-	Reset Mailbox >> same process as new mailbox.
+	Reset Mailbox >> right click on Mailbox structure > search for ext > double click > mailbox options uncheckd Security locked mailbox> save
+			> Numeric password set to the extension number
+		if its check it means it is locked.
+
+	same process as new mailbox.
 
 
 >> Load the inventory

@@ -1,0 +1,5 @@
+turn off Computer Maintenance:
+	Click Start, and then click Control Panel.
+	Under System and Security, click Find and fix problems.
+	On the left navigation pane, click Change settings.
+	Set Computer Maintenance to Off.

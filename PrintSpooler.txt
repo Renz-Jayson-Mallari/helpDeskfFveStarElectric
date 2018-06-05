@@ -1,6 +1,6 @@
 printSpooler
 
-open up Services 
+open up RUN Services.msc 
 	>> type "p" look for print spooler
 	>> start
 	

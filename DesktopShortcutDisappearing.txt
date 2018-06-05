@@ -1,0 +1,11 @@
+If this is happening, 
+
+turn off Computer Maintenance:
+	Click Start, and then click Control Panel.
+	Under System and Security, click Find and fix problems.
+	On the left navigation pane, click Change settings.
+	Set Computer Maintenance to Off.
+
+If that doesn’t work then also go to c:\windows\Diagnostics\Scheduled\Maintenance\ and delete TS_UnusedDesktopIcons.ps1
+
+Welcome123

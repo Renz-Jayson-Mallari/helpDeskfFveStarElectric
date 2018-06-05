@@ -14,6 +14,9 @@ title: ENG/CAD
 
 	>> MobileDEviceLog >> tablet :9178071897
 
+0-499 min
+Unlimited text
+
 Custom Flex 2 Mobile broadband 250mb
 
 
@@ -24,3 +27,5 @@ New
 Apps steps
 Q:\Departments\InformationTechnology\_TRACKING_\IT_Tracking_Issues\Tutorials\New Mobile Device Package
 
+
+Please enable data, text and call service for this device. 

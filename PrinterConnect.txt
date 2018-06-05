@@ -1,0 +1,7 @@
+Click the below link and you will connect to the printer.
+
+\\esap-dc01\ESAPKMC364D
+
+I also set you up on scanner over there, you will see your name on the machine and they will deliver to the below location.
+
+\\fsnb-hvs01\(SCANS)\JohnC_Scans

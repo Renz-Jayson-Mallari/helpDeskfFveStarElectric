@@ -1,0 +1,11 @@
+Copy and paste fix
+
+> cmd > administrator
+
+> type
+	> sfc/scannow
+	> wait for 100% verification
+	> reboot your computer
+	
+	
+	

@@ -1,0 +1,17 @@
+Color Printer Setup
+ Example 
+ 
+ \\Stca-hvs01
+ > STCASAVINC3503 ip address ( 10.21.114.28)
+ 
+ look on EI >> 10.21.114.28
+ 
+
+
+
+
+
+After setting up the code prefernces
+
+Goto Device and printers
+Printing preferences > Detailed Settings > Job Setup > User Code > Enter the Code "2580"

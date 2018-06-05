@@ -1,0 +1,33 @@
+Cisco ANy Connect
+
+Connect to Hawk
+pw : FSEssidOzone
+
+make sure its added to AD :FSE_AnyConnect_Users DCO1
+
+open up chrome : https://fsvpn.tutorperini.com
+login
+
+make sure its added to AD :FSE_AnyConnect_Users
+
+download click on anyConnect link
+Install
+
+make shortcut
+
+launch 
+
+connect with https://fsvpn.tutorperini.com
+
+
+To use the computer from home.
+
+type in https://fsvpn.tutorperini.com
+
+sign in with credential fname.lname
+
+
+fse-e510-1
+10.21.116.58
+
+415 Madison

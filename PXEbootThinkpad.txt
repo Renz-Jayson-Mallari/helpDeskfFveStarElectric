@@ -1,0 +1,10 @@
+Enabling PXE Boot for Lenovo ThinkPad Created: May 23, 2014 by Former ITECS Employee / Last Modified: March 14, 2018 by mgandhi
+Boot up the computer.
+Press F2 -> press Enter -> press F1.
+This should take you to the BIOS screen. Select Security -> select Secure Boot -> set to Disable -> select Start Up -> select UEFI/Legacy Boot -> set to Legacy Only -> press F10.
+Once you press F10, reboot then press F12.
+You should now be at the boot menu. Select PCI LAN.
+Press Enter.
+This should bring up a screen with the Intel Network Boot Agent. Simultaneously press Function and P (on some Lenovo ThinkPad models, this will be the same as pressing Pause|Break).
+Press Enter.
+This should go to failure, then go to the boot menu.

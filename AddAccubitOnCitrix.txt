@@ -1,0 +1,11 @@
+Adding Accubid Enterprise on Citrix
+
+Look for the username on LVHZ domain controller
+
+goto Memberof
+Add
+ctx_ checknames
+ctx_Accubid 
+add
+apply
+Logoff and Logback in on Citrix

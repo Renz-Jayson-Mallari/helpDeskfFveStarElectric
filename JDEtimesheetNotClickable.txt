@@ -1,0 +1,3 @@
+JDE time-sheet is not click-able
+
+Seach fro display and make sure both display is on the same percentage.

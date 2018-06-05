@@ -1,0 +1,9 @@
+5SESS
+
+JDE Access-- has to be assign to megan 
+
+classify 
+	application 
+	jde
+	sec
+	

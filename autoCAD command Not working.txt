@@ -1,0 +1,5 @@
+command now working autocad
+
+run repair on sutocad
+
+control panel>> autocad >> uninstall/change >> repair
