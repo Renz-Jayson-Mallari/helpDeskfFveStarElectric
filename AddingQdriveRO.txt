@@ -28,3 +28,6 @@ RIVERSIDE 5 - #9968
 		"\\fse-data\Project_Folders\(PROJECTS)\#9789-Educational and Cultural Trust Fund of the Electrical Industry" to Q drive using DFS management.
 		
 		REsolution email --> "Ok, You are all set. You just need to log off and log back in. You can then view the compliance folder in the job folder in your Q-Drive."
+
+
+Q drive ---->>>	:	\\tutorperini.com\fse

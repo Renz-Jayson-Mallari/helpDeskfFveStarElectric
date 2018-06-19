@@ -51,11 +51,14 @@ New Mailbox
 	>>	rightclick >> new mailbox >> extension number (ex. 4136) >> Standard User >>  Save
 	
 Used Mailbox
-	Reset Mailbox >> right click on Mailbox structure > search for ext > double click > mailbox options uncheckd Security locked mailbox> save
+	Reset Mailbox >> right click on Mailbox structure > search for ext > double click > "mailbox options"5406 uncheckd Security locked mailbox> save
 			> Numeric password set to the extension number
 		if its check it means it is locked.
 
 	same process as new mailbox.
+
+
+7777 to setup a new passcode
 
 
 >> Load the inventory

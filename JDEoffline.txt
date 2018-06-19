@@ -1,0 +1,6 @@
+JDE shows offline
+
+on the login page press "ALT"
+
+goto
+file > uncheck work offline

@@ -6,7 +6,7 @@ pw : FSEssidOzone
 make sure its added to AD :FSE_AnyConnect_Users DCO1
 
 open up chrome : https://fsvpn.tutorperini.com
-login
+login w/ user credential
 
 make sure its added to AD :FSE_AnyConnect_Users
 
@@ -22,7 +22,7 @@ connect with https://fsvpn.tutorperini.com
 
 To use the computer from home.
 
-type in https://fsvpn.tutorperini.com
+type in fsvpn.tutorperini.com
 
 sign in with credential fname.lname
 

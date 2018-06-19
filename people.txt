@@ -13,7 +13,7 @@ kevin behan 718 389 0574
 
 Darlene Dodson - FSE-WTCADM1-PC -- WTC
 
-Joseph Ciafone <JCiafone@fivestarelectric.net> -- Ozone -- GlofPro2018
+Joseph Ciafone <JCiafone@fivestarelectric.net> -- Ozone -- GlofPro2018 FSE-T3500DT-10
 
 
 Irina Chuykova-- FSE-P510-2  -- ESA 415 Madison
@@ -59,6 +59,31 @@ Maria Martinez -- 415 -- FSE-EST4-PC
 
 Anthony Santos - FSE-p71-1
 
+Wendy Meersand - FSE-WENDY-DT Ozone
+
+Frank B -- ESA -- FSE-OPTI3010-2  - Jodi!!!!1216  
+
+9817394@jV -- 3477680688-- Anthony Vitalino FSE-ESACORD-LT Anthony.Vitalino
+
+FSE-PM7474-LT
+
+Kevin conlon -- fse-opti3020-5 10.110.30.34
+Anton Namit -- Fse-benj-pc
+
+Charles Lovastic -- FSE-L570-3 {10.110.32.22}
+
+Ruslan Oleinikov FSE-M6800-2
+
+Giuseppe Arborea -- Ozone -- FSE-T1600-1
+
+Dana Sharkley -- ESA LIC office -- FSE-L570-6
+
+Michelle Evangelista -- ESA LIC 
+
+Andrew Dotsenko -- FSE-L560-7 
+
+Shawn Foy -- FSE-PM06255-LT
+
 Server
 fspa-egs01
 
@@ -86,6 +111,8 @@ Robert Sares -- Archer ave
 
 Nivia --
 
+Jim kokakis -- fse-elite-2 -- 3475514030 
+
 Yelena Zhadanova <YZhadanova@fivestarelectric.net> - Ozone - FSE-RECTOR1-PC [10.110.32.49]
 
 veritas enterprise vault outlook add-inn repair
@@ -97,6 +124,8 @@ Pil@ntodpo2
 pilantodPo2
 
 C:\Users\renz.mallari\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\24QY6L1P
+
+
 
 
 WIFI
