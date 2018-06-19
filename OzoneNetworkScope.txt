@@ -1,0 +1,11 @@
+192.168.1.1 scope	:	IT dept by the wall
+
+10.110.30.1 scope	:	Purchasing dept.
+					:	Estimating dept.
+					
+10.110.31.1 scope	:	Accounting dept.
+
+10.110.32.1 scope	:	PM dept 1st flr
+					:	Engineering dept.
+						
+10.110.33.1 scoe	:	nothing
