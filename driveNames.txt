@@ -1,0 +1,4 @@
+O:  \\esap-dc01\Data
+Q:	\\tutorperini.com\FSE
+T: 	\\tutorperini.com\TPC
+Z	\\EgnyteDrive\tutorperini
