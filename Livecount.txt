@@ -1,0 +1,22 @@
+Live count Pro setup
+
+1. Make sure user in the  ff group
+	>> Five Star Estimating
+	>> Ctx_Accubid_Live_Count_Pro
+	
+2. Map V-Drive as
+	>> \\tutorperini\tsc\Sylmar\Applications\ACCUBID\AccubidEnterprise\NYC
+	
+3. Launc LiveCount Pro 5
+
+4. Select Project Database Folder
+    >> Select V drive -NYC- LiveCount_5 CTR Files
+	>> ok
+
+5. Security Server not found
+	>> Change the program security Settings
+	>> connect to a customized network security server
+	>> lvhq-sqlacc01
+	
+6. Drawing file does not exist
+	>> Change the folder for the entire project

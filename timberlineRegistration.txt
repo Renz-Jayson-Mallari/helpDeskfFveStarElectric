@@ -1,6 +1,6 @@
 Lvhq-sqlacc01
 Fivestar
-Windows Log In
+Windows authentication Log In
 Check box for remember
 
 

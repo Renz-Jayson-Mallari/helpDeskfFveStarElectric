@@ -1,5 +1,6 @@
 mitel Phone
 
+rename
 Internet Browser 
 (Internet Explorer) --> 192.168.101.20
 					--> continue to this website
@@ -74,6 +75,10 @@ Used Mailbox
 	>> Select Keys
 	>> Clear All keys
 	
+	
+	J@ysonpo40
+	
+	Welcome123
 	
 
 	
