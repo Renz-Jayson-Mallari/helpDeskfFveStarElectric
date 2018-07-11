@@ -135,11 +135,13 @@ Dolly Milman -- dmilman -jde
 
 Kenneth Shelley 350 w31st office
 10:30 to 11am
+FSE-INSPIRON --> 10.110.130.36
+fse-opti3020-3
 
 C:\Users\renz.mallari\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\24QY6L1P
 
 
-Vinny Larkin -- 415 Madison
+Vinny Larkin -- 415 Madison -- FSE-VLARKIN1-LT
 
 Nick Forese - Ozone - FSE-CAD1970
 
