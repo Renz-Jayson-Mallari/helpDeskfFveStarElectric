@@ -90,6 +90,10 @@ Alan Mason -- FSE-OPTI3010-7
 
 leslie jasper -- fse-cad1969-pc Leslie.Jasper
 
+Lawrence graff - FSE-OPTI3020-6 - ESA office  -TheBub040702$
+
+Jogn murphy - fse-T3500DT-13 -Ozone
+
 yuriy - 
 
 Server
@@ -135,8 +139,8 @@ Dolly Milman -- dmilman -jde
 
 Kenneth Shelley 350 w31st office
 10:30 to 11am
-FSE-INSPIRON --> 10.110.130.36
-fse-opti3020-3
+FSE-INSPIRON --> 10.110.130.36 not this
+fse-opti3020-3 this one
 
 C:\Users\renz.mallari\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.Outlook\24QY6L1P
 
@@ -149,6 +153,8 @@ Michael Abreu -- FSE-P520C-1 --415 madison
 
 Luke Cowley - 415 madison -- FSE-P920-1 
 
+Kyle Vannatter - FSE-KVAN-LT - 425 Park Ave  - 114B3nd3r!
+
 WIFI
 TPC-corp-guess 	:	Bu!ld3r5
 Hawk			:	FSEssidOzone	
@@ -160,9 +166,11 @@ Welcome123
  
  (347) 203-1096
  
+ fse-opti3020-3
 
  
  
  Pil@ntodpo2
  
  pilantodPo3
+ 
