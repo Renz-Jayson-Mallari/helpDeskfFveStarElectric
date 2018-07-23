@@ -36,9 +36,14 @@
 
 40 41 61 66 67 tae 12
 
+01 14 30 44 62 tae 01
 02 12 31 57 70 pls 04
 
+02 11 34 46 59 eat 13 
+05 13 31 42 54 tae 11
+
 Draw Date	Balls	Mega Ball	Megaplier	Details
+7/20/2018	1	14	30	44	62	1	2	Details
 7/17/2018	40	41	61	66	67	12	5	Details
 7/13/2018	21	22	39	59	68	2	2	Details
 7/10/2018	1	17	28	56	70	14	3	Details
