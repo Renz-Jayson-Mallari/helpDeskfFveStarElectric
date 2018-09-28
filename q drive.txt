@@ -1,0 +1,12 @@
+
+Q drive
+
+
+\\tutorperini.com\fse
+
+
+T drive
+
+\\tutorperini.com\tpc
+
+gpupdate /force

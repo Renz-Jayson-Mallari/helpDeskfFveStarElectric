@@ -1,0 +1,8 @@
+Any JDE problem
+
+-Check the acoount if its lock
+
+-close citrix
+task manager and citrix director
+wiat 5 mins to clear JDE cache
+restart the application

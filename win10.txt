@@ -52,6 +52,7 @@ Setting up Windows 10
 				> uncheck Global and US metric
 			NOTE: Material library has to be install first.
 			L-key : 559 - 04065033 / 784H1
+				559-  04065033 / 784H1 
 					NOTE: G - 2015
 						  H - 2016
 						  I - 2017

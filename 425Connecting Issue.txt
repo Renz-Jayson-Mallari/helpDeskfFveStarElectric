@@ -1,0 +1,24 @@
+
+Issue @ 425 Park connecting to citrix and JDE and exchange server for email
+
+ping and tracert are good 
+
+
+Kyle, please try power cycling the Cisco 5505 ASA/Firewall.
+
+-----Original Message-----
+From: Kyle Vannatter
+Sent: Tuesday, September 04, 2018 10:52 AM
+To: Help Desk - Tutor Perini
+Subject: Issues at 425 Park connecting
+
+Sorry but we are having trouble connecting to the Citrix to enter time JDE and exchange server for email.
+
+We can get internet however curiously.  So chrome works.
+
+Via the hotspot the exchange and JDE works so we are switching back and forth on that.
+
+
+Can you help have a look?
+
+Sent from my desktop

@@ -1,0 +1,12 @@
+SimulateInstall 2016
+
+\\fse-mbs\SBS\Software\Applications\Autodesk
+
+\\fse-mbs\SBS\Software\Applications\Autodesk\Navisworks_Simulate2016
+
+1st one
+
+Network -single -service 
+
+Navis SIM for Hudson Tower C:
+561-53417686 / 506H1

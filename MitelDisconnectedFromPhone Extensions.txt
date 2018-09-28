@@ -1,0 +1,16 @@
+
+Disconnect mitel phone from  another extensions
+
+ie -192.168.101.20
+
+login
+	fseremote
+	753cl0ud
+	
+ > System administration tool
+ > alphabetical
+ > User and services configuration
+ > search by last name
+ > key
+ > clear all keys
+ > save changes

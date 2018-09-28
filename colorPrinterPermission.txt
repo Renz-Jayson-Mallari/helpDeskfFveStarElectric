@@ -11,7 +11,7 @@ Color Printer Setup
 
 
 
-After setting up the code prefernces
+After setting up the code preferences
 
 Goto Device and printers
 Printing preferences > Detailed Settings > Job Setup > User Code > Enter the Code "2580"

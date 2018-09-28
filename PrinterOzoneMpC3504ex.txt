@@ -1,0 +1,32 @@
+MP C3504ex
+
+192.168.1.234
+
+Login
+Username: admin
+Password:                  (no password)
+
+Device Management > Address Book > Add Username
+
+check the ff
+	Basic Information
+	Folder Destination
+	User Authentication(only if need password for color printer
+						and has to be approve by the supervisor.)
+						
+	Name: RenzM
+	Display: RenzM
+	path: Q:\StaffFiles\IT Folder
+	
+	Username: services.scanner
+	password: Swe=6amu
+	
+	4 digit codes
+	
+	check
+	1st row all
+	full color
+	color / black & white
+	scanner
+
+Welcome123

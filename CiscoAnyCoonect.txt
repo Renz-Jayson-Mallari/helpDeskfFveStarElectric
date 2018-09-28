@@ -31,3 +31,11 @@ fse-e510-1
 10.21.116.58
 
 415 Madison
+
+
+lte
+network and internet settings> cellular > advanced option > add apn >
+name verizon
+apn vzwinternet
+save
+select verizon apn.

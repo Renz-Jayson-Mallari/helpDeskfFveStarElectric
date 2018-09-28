@@ -44,5 +44,5 @@ Make a shortcut for User Scans and Printers
 				  
 	
 				  
-				
+	Search	> UAC	> bring up one level > to be able to install application with the user account without admin profile using admin credential.
 	

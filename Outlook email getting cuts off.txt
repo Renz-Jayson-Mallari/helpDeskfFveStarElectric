@@ -1,0 +1,17 @@
+Outlook email getting cuts off
+ 
+ 
+ Open the email 
+ 
+Print a section of a message
+In the open message, on the Message tab, in the Move group, click Actions>Other Actions, and then click View in Browser.
+
+Choose View in Browser.
+
+If you see a security message, click OK to continue.
+
+In the message, choose the section that you want to print. Select the text or other part of the message directly in the browser window, not in the Print Preview window.
+
+On the browser toolbar, click the arrow next to the Print button, and then click Print.
+
+Under Page Range, click Selection, and then click Print.
